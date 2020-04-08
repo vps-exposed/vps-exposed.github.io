@@ -3,7 +3,7 @@
 		<title>vps.exposed</title>
 		<link>https://vps.exposed/</link>
 		<description>Recent content on vps.exposed</description>
-		<generator>Hugo 0.58.2 -- gohugo.io</generator>
+		<generator>Hugo 0.68.3 -- gohugo.io</generator>
 		<language>en-us</language>
 		<lastBuildDate>Sun, 15 Sep 2019 09:13:23 +0200</lastBuildDate>
 		<atom:link href="https://vps.exposed/index.xml" rel="self" type="application/rss+xml" />
@@ -20,19 +20,9 @@
 			<link>https://vps.exposed/readme/</link>
 			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 			<guid isPermaLink="true">https://vps.exposed/readme/</guid>
-			<description>
-
-&lt;h1 id=&#34;public&#34;&gt;public&lt;/h1&gt;
-
+			<description>&lt;h1 id=&#34;public&#34;&gt;public&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://vps.exposed&#34;&gt;https://vps.exposed&lt;/a&gt;&lt;/p&gt;
 </description>
-		</item>
-		<item>
-			<title>Posts</title>
-			<link></link>
-			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-			<guid isPermaLink="true"></guid>
-			<description></description>
 		</item>
 	</channel>
 </rss>
